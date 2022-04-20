@@ -88,3 +88,4 @@ print("\n\n")
 print(caption)
 plt.imshow(img)
 
+## live captioning at the command line process created by Abhishek Sharma (https://medium.com/mlearning-ai/image-captioning-using-deep-learning-with-source-code-easy-explanation-3f2021a63f14)
